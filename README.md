@@ -13,4 +13,4 @@ TODO
 * BC46 - Created the maximized draw distances addon
 * Buck Danny - Created the Unofficial FL SP 1.4 patch
 * Jason Hood - Created JFLP
-* Louva-Deus - Created the SDK/QuickFix
+* Louva-Deus - Created the Freelancer SDK/QuickFix
