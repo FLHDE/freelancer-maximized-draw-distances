@@ -1,0 +1,18 @@
+<script>
+
+<header name="Maximized draw distances" savesafe="true">
+<scriptversion>
+1.0
+</scriptversion>
+<author>
+BC46
+</author>
+<modurl>
+https://github.com/BC46/freelancer-maximized-draw-distances
+</modurl>
+<description>
+Maximizes the draw distances of space structures, asteroids, and effects. It also ensures the best possible level of detail is shown for these entities at any distance.
+</description>
+</header>
+
+</script>
