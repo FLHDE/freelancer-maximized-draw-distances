@@ -8,10 +8,14 @@ TODO
 
 ## Installation instructions
 ### Freelancer Mod Manager v1.3
-Download the latest version of the mod under "Releases" and open the .flmod file using Freelancer Mod Manager. Now simply install it like any other mod.
+* Download the latest version of the mod under "Releases"
+* Open the .flmod file using Freelancer Mod Manager
+* Install it like any other mod
 
 ### Manually
-Download the latest version of the mod under "Releases" and open the .flmod file using your favorite file archiver. Now extract the files to your Freelancer folder.
+* Download the latest version of the mod under "Releases"
+* Open the .flmod file using your favorite file archiver
+* Extract the files to your Freelancer folder
 
 
 ## Credits
