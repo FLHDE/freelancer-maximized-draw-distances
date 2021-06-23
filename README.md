@@ -3,6 +3,8 @@ A modification for the game Freelancer (2003) that maximizes the draw distances 
 
 By default in Freelancer, most entities in space can only be seen from a very close distance. Hence all structures like trade lanes, bases, jumpholes, and more would not be visible from over 20K away. Structures like large space stations and jumpgates are visible from great distances, but only in a low quality and blocky state. This has been rectified with the Freelancer mazimized distances addon, as it allows players to see all space structures from up to 999.999K away in the best possible quality. Additionally, the effect draw distances have also been increased, allowing you to see projectiles, jump holes and other ship's engines from much farther away.
 
+Since this modification only changes visual aspects of the game, you would be allowed to use this on most vanilla servers. But please, make sure you ask your server owner first, as some may consider this cheating.
+
 
 ## Screenshots
 TODO
