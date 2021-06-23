@@ -15,7 +15,7 @@ TODO
 ### Manually
 * Download the latest version of the mod under "Releases"
 * Open the .flmod file using your favorite file archiver
-* Extract the files to your Freelancer folder
+* Extract the content to your Freelancer folder and make sure you allow all files to be overwritten
 
 
 ## Credits
