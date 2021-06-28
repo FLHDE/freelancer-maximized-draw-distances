@@ -1,5 +1,13 @@
 # Changelog
 
+## [[2.0] - 2021-06-29](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.0)
+ 
+### Changed
+* Multiply fill distances for regular asteroids by 2
+* Multiply start distances for regular asteroid billboards by 2
+* Multiply fill distances for asteroids inside nebulae by 1.2
+
+
 ## [[1.0] - 2021-06-23](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/1.0)
  
 ### Changed
