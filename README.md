@@ -10,17 +10,6 @@ Since this modification only changes visual aspects of the game, you are allowed
 TODO
 
 
-## Recommendations 
-This modification does not include widescreen resolutions nor anti-aliasing, contrary to what is shown in the screenshots.
-
-To play Freelancer in 16:9, download and install Jason's Freelancer Patch from http://adoxa.altervista.org/freelancer/. NOTE: If you do this, make sure you install the maximized draw distances addon AFTER installing Jason's Freelancer Patch, otherwise the maximized draw distance files will be overwritten.
-
-To enable anti-aliasing for Freelancer, please visit the link from your GPU manufacturer:
-* NVIDIA: https://www.nvidia.com/content/Control-Panel-Help/vLatest/en-us/mergedProjects/nv3d/Tips_for_Setting_Antialiasing.htm
-* AMD: https://www.amd.com/en/support/kb/faq/dh-012
-* Intel: https://www.intel.com/content/www/us/en/support/articles/000057285/graphics.html
-
-
 ## Installation instructions
 ### Freelancer Mod Manager v1.3
 * Download the latest version of the mod under "Releases"
@@ -31,6 +20,17 @@ To enable anti-aliasing for Freelancer, please visit the link from your GPU manu
 * Download the latest version of the mod under "Releases"
 * Open the .flmod file using your favorite file archiver
 * Extract the content to your Freelancer folder and make sure you allow all files to be overwritten
+
+
+## Recommendations 
+This modification does not include widescreen resolutions nor anti-aliasing, contrary to what is shown in the screenshots.
+
+To play Freelancer in 16:9, download and install Jason's Freelancer Patch from http://adoxa.altervista.org/freelancer/. NOTE: If you do this, make sure you install the maximized draw distances addon AFTER installing Jason's Freelancer Patch, otherwise the maximized draw distance files will be overwritten.
+
+To enable anti-aliasing for Freelancer, please visit the link from your GPU manufacturer:
+* NVIDIA: https://www.nvidia.com/content/Control-Panel-Help/vLatest/en-us/mergedProjects/nv3d/Tips_for_Setting_Antialiasing.htm
+* AMD: https://www.amd.com/en/support/kb/faq/dh-012
+* Intel: https://www.intel.com/content/www/us/en/support/articles/000057285/graphics.html
 
 
 ## Credits
