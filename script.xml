@@ -1,8 +1,8 @@
 <script>
 
-<header name="Maximized draw distances 1.0" savesafe="true">
+<header name="Maximized draw distances 2.0" savesafe="true">
 <scriptversion>
-1.0
+2.0
 </scriptversion>
 <author>
 BC46
@@ -26,6 +26,9 @@ Changelog:
 * Set the draw distances of effects to 999.999K
 * Set the draw distances of ships to 999.999K
 * Set the draw distances of space structures to 999.999K
+* Multiply fill distances for regular asteroids by 2
+* Multiply start distances for regular asteroid billboards by 2
+* Multiply fill distances for asteroids inside nebulae by 1.2
   
 Credits:
 BC46 - Created the maximized draw distances addon
