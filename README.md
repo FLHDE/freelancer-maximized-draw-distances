@@ -6,8 +6,23 @@ By default in Freelancer, most entities in space can only be seen from a very cl
 Since this modification only changes visual aspects of the game, you are allowed to use it on vanilla servers that tolerate the use of visual mods. But please, make sure you ask your server owner first, as some may consider this cheating.
 
 
-## Screenshots
-TODO
+## Screenshots (make sure you view them in full-screen)
+### [Imgur album](https://imgur.com/a/QBIFulQ)
+
+### Before and after comparisons:
+* [Texas](https://imgsli.com/NTk2MTI)
+* [California](https://imgsli.com/NTk1OTM)
+* [New York](https://imgsli.com/NTk1OTc)
+* [Cambridge](https://imgsli.com/NTk1OTk)
+* [Omega-5](https://imgsli.com/NTk2MDA)
+* [Omicron Gamma](https://imgsli.com/NTk2MDI)
+* [Unknown](https://imgsli.com/NTk2MDM)
+* [Sigma-17](https://imgsli.com/NTk2MDQ)
+* [Honshu](https://imgsli.com/NTk2MDU)
+* [Tohoku](https://imgsli.com/NTk2MDY)
+* [Stuttgart](https://imgsli.com/NTk2MDc)
+* [Stuttgart #2](https://imgsli.com/NTk2MTE)
+* [Tau-29](https://imgsli.com/NTk2MTA)
 
 
 ## Installation instructions
