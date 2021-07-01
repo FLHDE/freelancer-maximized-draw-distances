@@ -13,6 +13,7 @@ Since this modification only changes visual aspects of the game, you are allowed
 * [Texas](https://imgsli.com/NTk2MTI)
 * [California](https://imgsli.com/NTk1OTM)
 * [New York](https://imgsli.com/NTk1OTc)
+* [Leeds](https://imgsli.com/NTk1OTg)
 * [Cambridge](https://imgsli.com/NTk1OTk)
 * [Omega-5](https://imgsli.com/NTk2MDA)
 * [Omicron Gamma](https://imgsli.com/NTk2MDI)
