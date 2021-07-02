@@ -22,7 +22,7 @@ Since this modification only changes visual aspects of the game, you are allowed
 * [Honshu](https://imgsli.com/NTk2MDU)
 * [Tohoku](https://imgsli.com/NTk2MDY)
 * [Stuttgart](https://imgsli.com/NTk2MDc)
-* [Stuttgart #2](https://imgsli.com/NTk2MTE)
+* [Stuttgart #2](https://imgsli.com/NTk2ODY)
 * [New Berlin](https://imgsli.com/NTk2ODU)
 * [Tau-29](https://imgsli.com/NTk2MTA)
 
