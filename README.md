@@ -29,12 +29,12 @@ Since this modification only changes visual aspects of the game, you are allowed
 
 ## Installation instructions
 ### Freelancer Mod Manager v1.3
-* Download the latest version of the mod under "Releases"
+* Download the mod under "Releases"
 * Open the .flmod file using Freelancer Mod Manager
 * Install it like any other mod
 
 ### Manually
-* Download the latest version of the mod under "Releases"
+* Download the mod under "Releases"
 * Open the .flmod file using your favorite file archiver
 * Extract the content to your Freelancer folder and make sure you allow all files to be overwritten
 
