@@ -17,12 +17,13 @@ Since this modification only changes visual aspects of the game, you are allowed
 * [Cambridge](https://imgsli.com/NTk1OTk)
 * [Omega-5](https://imgsli.com/NTk2MDA)
 * [Omicron Gamma](https://imgsli.com/NTk2MDI)
-* [Unknown](https://imgsli.com/NTk2MDM)
+* [Unknown](https://imgsli.com/NTk2ODQ)
 * [Sigma-17](https://imgsli.com/NTk2MDQ)
 * [Honshu](https://imgsli.com/NTk2MDU)
 * [Tohoku](https://imgsli.com/NTk2MDY)
 * [Stuttgart](https://imgsli.com/NTk2MDc)
 * [Stuttgart #2](https://imgsli.com/NTk2MTE)
+* [New Berlin](https://imgsli.com/NTk2ODU)
 * [Tau-29](https://imgsli.com/NTk2MTA)
 
 
