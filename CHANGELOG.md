@@ -1,6 +1,6 @@
 # Changelog
 
-## [[2.0] - 2021-06-29](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.0)
+## [[2.0] - 2021-07-02](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.0)
  
 ### Changed
 * Multiply fill distances for regular asteroids by 2
