@@ -1,6 +1,6 @@
 <script>
 
-<header name="Maximized draw distances 2.0" savesafe="true">
+<header name="Maximized draw distances 2.1" savesafe="true">
 <scriptversion>
 1.0
 </scriptversion>
@@ -13,7 +13,7 @@ https://github.com/BC46/freelancer-maximized-draw-distances
 <description>
 A modification for the game Freelancer (2003) that maximizes the draw distances of space structures, asteroids, and effects. It also ensures the best possible level of detail is shown for these entities at any distance. This modification was built based on several files from Jason's Freelancer Patch.
 
-By default in Freelancer, most entities in space can only be seen from a very close distance. Hence all structures like trade lanes, bases, jumpholes, and more would not be visible from over 20K away. Structures like large space stations and jumpgates are visible from great distances, but only in a low quality and blocky state. This has been rectified with the Freelancer mazimized distances addon, as it allows players to see all space structures from up to 999.999K away in the best possible quality. Additionally, the effect draw distances have also been increased, allowing you to see projectiles, jump holes and other ship's engines from much farther away.
+By default in Freelancer, most entities in space can only be seen from a very close distance. Hence all structures like trade lanes, bases, jumpholes, and more would not be visible from over 20K away. Structures like large space stations and jumpgates are visible from great distances, but only in a low quality and blocky state. This has been rectified with the Freelancer maximized distances addon, as it allows players to see all space structures from up to 999.999K away in the best possible quality. Additionally, the effect draw distances have also been increased, allowing you to see projectiles, jump holes and other ship's engines from much farther away.
 
 Since this modification only changes visual aspects of the game, you are allowed to use it on vanilla servers that tolerate the use of visual mods. But please, make sure you ask your server owner first, as some may consider this cheating.
 
@@ -29,6 +29,7 @@ Changelog:
 * Multiply fill distances for regular asteroids by 2
 * Multiply start distances for regular asteroid billboards by 2
 * Multiply fill distances for asteroids inside nebulae by 1.2
+* Multiply all pool sizes by 10
   
 Credits:
 BC46 - Created the maximized draw distances addon

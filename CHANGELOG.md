@@ -1,5 +1,11 @@
 # Changelog
 
+## [[2.1] - 2021-07-04](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.1)
+
+### Changed
+* Multiply all pool sizes by 10
+
+
 ## [[2.0] - 2021-07-02](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.0)
  
 ### Changed
@@ -9,7 +15,7 @@
 
 
 ## [[1.0] - 2021-06-23](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/1.0)
- 
+
 ### Changed
 * Add No-CD executable
 * Fix issue with low quality textures on some graphics cards
