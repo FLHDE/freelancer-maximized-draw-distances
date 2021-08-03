@@ -1,5 +1,11 @@
 # Changelog
 
+## [[2.2] - 2021-08-03](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.2)
+
+### Changed
+* Set the draw distances and maximum detail levels of characters to 999.999M
+
+
 ## [[2.1] - 2021-07-04](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.1)
 
 ### Changed
@@ -21,7 +27,7 @@
 * Fix issue with low quality textures on some graphics cards
 * Remove the game's default limit of drawing bases and ships beyond a certain distance 
 * Set the poly flipping distance to 40K
-* Set the draw distances of equipment to 999.999K
-* Set the draw distances of effects to 999.999K
-* Set the draw distances of ships to 999.999K
-* Set the draw distances of space structures to 999.999K
+* Set the draw distances and maximum detail levels of equipment to 999.999K
+* Set the draw distances and maximum detail levels of effects to 999.999K
+* Set the draw distances and maximum detail levels of ships to 999.999K
+* Set the draw distances and maximum detail levels of space structures to 999.999K

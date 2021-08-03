@@ -1,6 +1,6 @@
 <script>
 
-<header name="Maximized draw distances 2.1" savesafe="true">
+<header name="Maximized draw distances 2.2" savesafe="true">
 <scriptversion>
 1.0
 </scriptversion>
@@ -20,12 +20,13 @@ Since this modification only changes visual aspects of the game, you are allowed
 Changelog:
 * Add No-CD executable
 * Fix issue with low quality textures on some graphics cards
-* Remove the game's default limit of drawing certain bases and ships
+* Remove the game's default limit of drawing certain bases and ships beyond a certain distance
 * Set the poly flipping distance to 40K
-* Set the draw distances of equipment to 999.999K
-* Set the draw distances of effects to 999.999K
-* Set the draw distances of ships to 999.999K
-* Set the draw distances of space structures to 999.999K
+* Set the draw distances and maximum detail levels of characters to 999.999M
+* Set the draw distances and maximum detail levels of equipment to 999.999K
+* Set the draw distances and maximum detail levels of effects to 999.999K
+* Set the draw distances and maximum detail levels of ships to 999.999K
+* Set the draw distances and maximum detail levels of space structures to 999.999K
 * Multiply fill distances for regular asteroids by 2
 * Multiply start distances for regular asteroid billboards by 2
 * Multiply fill distances for asteroids inside nebulae by 1.2
