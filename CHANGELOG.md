@@ -1,5 +1,11 @@
 # Changelog
 
+## [[2.3] - 2021-10-28](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.3)
+
+### Changed
+* Ensure planets are always rendered as perfect spheres
+
+
 ## [[2.2] - 2021-08-03](https://github.com/BC46/freelancer-maximized-draw-distances/releases/tag/2.2)
 
 ### Changed
