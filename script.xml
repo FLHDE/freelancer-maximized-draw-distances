@@ -1,6 +1,6 @@
 <script>
 
-<header name="Maximized draw distances 2.2" savesafe="true">
+<header name="Maximized draw distances 2.3" savesafe="true">
 <scriptversion>
 1.0
 </scriptversion>
@@ -31,11 +31,12 @@ Changelog:
 * Multiply start distances for regular asteroid billboards by 2
 * Multiply fill distances for asteroids inside nebulae by 1.2
 * Multiply all pool sizes by 10
+* Ensure planets are always rendered as perfect spheres
   
 Credits:
 BC46 - Created the maximized draw distances addon
 Buck Danny - Created the Unofficial FL SP 1.4 patch
-Jason Hood - Created Jason's Freelancer Patch
+Jason Hood - Created Jason's Freelancer Patch & offered support
 Louva-Deus - Created the Freelancer SDK/QuickFix  
 </description>
 </header>
