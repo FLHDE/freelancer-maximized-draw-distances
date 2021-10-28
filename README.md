@@ -53,5 +53,5 @@ To enable anti-aliasing for Freelancer, please visit the link from your GPU manu
 ## Credits
 * BC46 - Created the maximized draw distances addon
 * Buck Danny - Created the Unofficial FL SP 1.4 patch
-* Jason Hood - Created Jason's Freelancer Patch
+* Jason Hood - Created Jason's Freelancer Patch & offered support
 * Louva-Deus - Created the Freelancer SDK/QuickFix
