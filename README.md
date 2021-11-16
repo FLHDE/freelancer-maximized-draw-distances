@@ -5,6 +5,7 @@ By default in Freelancer, most entities in space can only be seen from a very cl
 
 Since this modification only changes visual aspects of the game, you are allowed to use it on vanilla servers that tolerate the use of visual mods. But please, make sure you ask your server owner first, as some may consider this cheating.
 
+All files from this addon may be freely used by any mod or anything else. See the [license](https://github.com/BC46/freelancer-maximized-draw-distances/blob/main/license) file for more information.
 
 ## Screenshots (make sure you view them in full-screen)
 ### [Imgur album](https://imgur.com/a/QBIFulQ)
